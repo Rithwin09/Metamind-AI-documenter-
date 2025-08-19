@@ -78,3 +78,5 @@ Follow these instructions to set up and run the project on your local machine.
 
 This application is designed to be deployed on **Streamlit Community Cloud**. The app will prompt users to enter their own API key in the sidebar if a local key is not found.
 
+Live URL : https://yjqovtjmcdrg5bidreqdyq.streamlit.app/
+
